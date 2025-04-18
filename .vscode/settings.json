@@ -1,0 +1,9 @@
+{
+    "files.participants.timeout": 0,
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "files.associations": {
+        "cmath": "cpp",
+        "complex": "cpp"
+    },
+    "python.terminal.executeInFileDir": false,
+}
