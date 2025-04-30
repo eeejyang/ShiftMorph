@@ -26,12 +26,12 @@ If you find this code useful for your research, please cite our paper:
 
 ``` tex
 @inproceedings{shiftMorph2024yang,
-author = {Yang, Lijian and Li, Weisheng and Shu, Yucheng and Mi, Jianxun and Huang, Yuping and Xiao, Bin},
-title = {ShiftMorph: A Fast and Robust Convolutional Neural Network for 3D Deformable Medical Image Registration},
-year = {2024},
-doi = {10.1145/3664647.3680828},
-booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
-pages = {2814–2823},
-location = {Melbourne VIC, Australia},
+  title = {ShiftMorph: A Fast and Robust Convolutional Neural Network for 3D Deformable Medical Image Registration},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+  author = {Lijian, Yang and Weisheng, Li and Yucheng, Shu and Jianxun, Mi and Yuping, Huang and Bin, Xiao},
+  year = {2024},
+  pages = {2814--2823},
+  doi = {10.1145/3664647.3680828},
+  location = {Melbourne VIC, Australia},
 }
 ```
